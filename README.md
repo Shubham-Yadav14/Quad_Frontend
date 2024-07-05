@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# QUAD SEO Software
+QUAD SEO Software is an advanced, user-friendly platform designed to optimize and elevate your website's search engine performance. Our cutting-edge tools and features are tailored to meet the needs of SEO professionals and businesses looking to enhance their online visibility. With QUAD, you can conduct comprehensive keyword research, track and analyze your site's ranking, and gain valuable insights into your competitors' strategies. Our intuitive interface simplifies the process, making it accessible even for those new to SEO. Boost your site's traffic, improve your search rankings, and achieve your digital marketing goals with QUAD SEO Software.
+
+## Working Website Link 
+https://quad-frontend.onrender.com
+
+## Technologies Used 
+1. ReactJS
+2. Tailwind CSS
+
+## Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
